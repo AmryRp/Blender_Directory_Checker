@@ -10,19 +10,23 @@ def render_Settings(C,D, scene):
         "FilePath": file_path,
         "FileName": os.path.basename(file_path),
         "Render_Engine": scene.render.engine,
+        "blender_ver": D.version,
         "FPS": scene.render.fps,
         "Total_Frames": scene.frame_end - scene.frame_start,
         "Render_Samples": D.scenes[C.scene.name].cycles.samples,
         "Resolution_X": render_settings.resolution_x,
         "Resolution_Y": render_settings.resolution_y,
-        "File_Path": render_settings.filepath,"World_Name": "-" if scene.world is None else scene.world.name,
+        "File_Path": render_settings.filepath,
+        "World_Name": "-" if scene.world is None else scene.world.name,
         "File_Format": render_settings.image_settings.file_format,
         "Resolution_Percentage": render_settings.resolution_percentage,
         "Scene": C.scene.name,
         "have_seq": has_video_sequence(C, D),
+        "w_comp": D.scenes[C.scene.name].use_nodes,
+        "noise_t": D.scenes[C.scene.name].cycles.adaptive_threshold if D.scenes[C.scene.name].cycles.adaptive_threshold else "-",
         "Ambient_Occlusion": "-",
         "Subsurface_Reflection": "-",
-        "Simplify": "-",
+        "Simplify": scene.render.use_simplify,
         "Bloom": "-",
         "Motion_Blur": "-",
         
@@ -70,11 +74,12 @@ def load_blend_file(file_path):
     )
     return settings_info
 
+
 if __name__ == "__main__":
     file_path = sys.argv[1]
     try:
         info = load_blend_file(file_path)
-        print(info)
+        print(info, "SUCCESS")
     except Exception as e:
         print(f"Failed to load Blender file:\n{str(e)}", file=sys.stderr)
         sys.exit(1)

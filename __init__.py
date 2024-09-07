@@ -28,7 +28,10 @@ class BlenderDirectoryExplorer(QWidget):
         self.table.setColumnCount(4)
         self.table.setHorizontalHeaderLabels(["File Name", "Scenes", "Objects", "Render Samples"])
         layout.addWidget(self.table)
-
+        self.save_settings = {}
+        
+        # Signal to detect changes in the table cells
+        self.table.itemChanged.connect(self.on_item_changed)
         self.setLayout(layout)
 
     def open_directory_dialog(self):
@@ -58,26 +61,85 @@ class BlenderDirectoryExplorer(QWidget):
 
             if result.returncode == 0:
                 file_info = result.stdout.split('_Result')
-                print(file_info)
-                json_file_info = eval(file_info[1])
-                self.table.setColumnCount(len(json_file_info.keys()))
-                self.table.setHorizontalHeaderLabels(json_file_info.keys())
-                for idx,data in enumerate(json_file_info.keys()):
-                    self.table.setItem(row, idx, QTableWidgetItem(str(json_file_info.get(data))))
-                # print(json_file_info)
-                # file_name = json_file_info.get("Scene")
-                # scenes = json_file_info.get("Scene")
-                # render_samples = str(json_file_info.get("Render_Samples"))
+                
+            json_file_info = eval(file_info[1])
+            self.table.setColumnCount(len(json_file_info.keys()) + 2)  # +2 for the buttons
+            self.table.setHorizontalHeaderLabels(list(json_file_info.keys()) + ["","Save File"])
+            file_name= json_file_info.get('FileName')
+            self.save_settings[file_name] = json_file_info
+            # Fill in the data from the JSON info
+            for idx, data in enumerate(json_file_info.keys()):
+                self.table.setItem(row, idx, QTableWidgetItem(str(json_file_info.get(data))))
+            modified_blend_file_path = str(json_file_info.get('FilePath'))
 
-                # self.table.setItem(row, 0, QTableWidgetItem(file_name))
-                # self.table.setItem(row, 1, QTableWidgetItem(scenes))
-                # self.table.setItem(row, 2, QTableWidgetItem(""))
-                # self.table.setItem(row, 3, QTableWidgetItem(render_samples))
+            # Add the "Save File" button
+            save_file_button = QPushButton("Save File", self)
+            settings = self.save_settings[file_name]
+            save_file_button.clicked.connect(lambda _, path=modified_blend_file_path, file_name=file_name: self.save_blend_file(path, file_name))
+            self.table.setCellWidget(row, len(json_file_info.keys()) + 1, save_file_button)
+            # print(eval(file_info[1]))
+            if result.returncode != 0:
+                save_file_button = QPushButton("Save File", self)
+                save_file_button.setDisabled(True)
+                self.table.setCellWidget(row, len(json_file_info.keys()) + 1, save_file_button)
+            # print(self.save_settings)
+        
+    def on_item_changed(self, item):
+        row = item.row()
+        col = item.column()
+        value = item.text()
+
+        # Debugging information
+        print(f"Item changed: Row {row}, Column {col}, New Value: {value}")
+
+        # Ensure the row is valid and the table has items
+        if row < 0 or col < 0 or row >= self.table.rowCount() or col >= self.table.columnCount():
+            print(f"Invalid row or column index: Row {row}, Column {col}")
+            return
+
+        # Get the file name from column 0
+        file_name_item = self.table.item(row, 1)
+        if file_name_item:
+            file_name = file_name_item.text()
+            if file_name in self.save_settings:
+                column_key = self.table.horizontalHeaderItem(col).text()
+                if column_key in self.save_settings[file_name]:
+                    self.save_settings[file_name][column_key] = value
+                    # print(f"Updated {file_name} - {column_key}: {value}")
+                else:
+                    print(f"Column key {column_key} not found in save settings.")
             else:
-                self.table.setItem(row, 0, QTableWidgetItem(blend_file))
-                self.table.setItem(row, 1, QTableWidgetItem(f"Error: {result.stderr}"))
-                self.table.setItem(row, 2, QTableWidgetItem(""))
-                self.table.setItem(row, 3, QTableWidgetItem(""))
+                print(f"File name {file_name} not found in save settings.")
+        else:
+            print(f"File name item not found for row {row}.")
+
+    def save_settings_button(self, row):
+        # Get the data from the table and save the settings
+        file_name_item = self.table.item(row, 0)  # Assuming the file name is in column 0
+        if file_name_item:
+            file_name = file_name_item.text()
+            if file_name in self.save_settings:
+                # Save settings for the corresponding file
+                settings = self.save_settings[file_name]
+                print(f"Saving settings for {file_name}: {settings}")        
+                
+    def save_blend_file(self, file_path, file_name):
+        try:
+            # Define a temporary file path for saving the modified .blend file
+            settings = self.save_settings[file_name]
+            print(settings)
+            result = subprocess.run(
+                ["python", "blender_save_script.py", str(settings)],
+                capture_output=True,
+                text=True
+            )
+
+            if result.returncode == 0:
+                print(f"File saved to {file_path}")
+            else:
+                print(f"Error: {result.stderr}")
+        except Exception as e:
+            print(f"Failed to save Blender file: {str(e)}")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
