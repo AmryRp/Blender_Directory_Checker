@@ -44,3 +44,850 @@
 2024-09-08 03:25:21,549 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified_modified.blend', 'FileName': 'my copy 2_modified_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '246', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': 'False', 'w_comp': 'False', 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': 'False', 'Subsurface_Reflection': 'False', 'Simplify': 'False', 'Bloom': 'False', 'Motion_Blur': 'False'}
 2024-09-08 03:25:21,550 - All video sequences removed.
 2024-09-08 03:25:21,550 - Settings applied to scene 'Scene'
+2024-09-08 14:31:32,094 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified_modified.blend', 'FileName': 'my copy 2_modified_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '246', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': True, 'Bloom': False, 'Motion_Blur': False}
+2024-09-08 14:31:32,607 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified.blend', 'FileName': 'my copy 2_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '248', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': True, 'Bloom': False, 'Motion_Blur': False}
+2024-09-08 14:31:33,032 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 3.blend', 'FileName': 'my copy 3.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '247', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': True, 'Bloom': False, 'Motion_Blur': False}
+2024-09-08 14:31:33,459 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2.blend', 'FileName': 'my copy 2.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '249', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': True, 'Subsurface_Reflection': True, 'Simplify': True, 'Bloom': True, 'Motion_Blur': True}
+2024-09-08 14:31:33,883 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2.blend', 'FileName': 'my copy 2.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '249', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': True, 'Subsurface_Reflection': True, 'Simplify': True, 'Bloom': True, 'Motion_Blur': True}
+2024-09-08 14:31:34,313 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy.blend', 'FileName': 'my copy.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '248', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': True, 'Bloom': False, 'Motion_Blur': False}
+2024-09-08 14:40:33,602 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified_modified.blend', 'FileName': 'my copy 2_modified_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '246', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 14:40:33,603 - str to boolFalse
+2024-09-08 14:40:33,603 - str to boolFalse
+2024-09-08 14:40:33,603 - str to boolFalse
+2024-09-08 14:40:33,603 - str to boolFalse
+2024-09-08 14:40:33,603 - str to boolTrue
+2024-09-08 14:40:33,604 - str to boolFalse
+2024-09-08 14:40:33,604 - Settings applied to scene 'Scene'
+2024-09-08 14:40:35,963 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified.blend', 'FileName': 'my copy 2_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '248', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 14:40:35,964 - str to boolFalse
+2024-09-08 14:40:35,964 - str to boolFalse
+2024-09-08 14:40:35,965 - str to boolFalse
+2024-09-08 14:40:35,965 - str to boolFalse
+2024-09-08 14:40:35,965 - str to boolTrue
+2024-09-08 14:40:35,965 - str to boolFalse
+2024-09-08 14:40:35,965 - Settings applied to scene 'Scene'
+2024-09-08 14:40:37,614 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 3.blend', 'FileName': 'my copy 3.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '247', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 14:40:37,615 - str to boolFalse
+2024-09-08 14:40:37,615 - str to boolFalse
+2024-09-08 14:40:37,615 - str to boolFalse
+2024-09-08 14:40:37,615 - str to boolFalse
+2024-09-08 14:40:37,616 - str to boolTrue
+2024-09-08 14:40:37,616 - str to boolFalse
+2024-09-08 14:40:37,616 - Settings applied to scene 'Scene'
+2024-09-08 14:40:39,089 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2.blend', 'FileName': 'my copy 2.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '249', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': True, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': True, 'Subsurface_Reflection': True, 'Simplify': True, 'Bloom': True, 'Motion_Blur': True}
+2024-09-08 14:40:39,093 - str to boolTrue
+2024-09-08 14:40:39,093 - str to boolTrue
+2024-09-08 14:40:39,094 - str to boolTrue
+2024-09-08 14:40:39,094 - str to boolTrue
+2024-09-08 14:40:39,094 - str to boolTrue
+2024-09-08 14:40:39,094 - str to boolTrue
+2024-09-08 14:40:39,094 - Settings applied to scene 'Scene'
+2024-09-08 14:40:40,328 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy.blend', 'FileName': 'my copy.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': '(3, 6, 13)', 'FPS': '24', 'Total_Frames': '248', 'Render_Samples': '64', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.009999999776482582', 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 14:40:40,332 - str to boolFalse
+2024-09-08 14:40:40,332 - str to boolFalse
+2024-09-08 14:40:40,333 - str to boolFalse
+2024-09-08 14:40:40,333 - str to boolFalse
+2024-09-08 14:40:40,333 - str to boolTrue
+2024-09-08 14:40:40,333 - str to boolFalse
+2024-09-08 14:40:40,333 - Settings applied to scene 'Scene'
+2024-09-08 21:14:25,847 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy.blend', 'FileName': 'my copy.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 248, 'Render_Samples': 64, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.009999999776482582, 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 21:14:25,849 - str to boolFalse
+2024-09-08 21:14:25,849 - str to boolFalse
+2024-09-08 21:14:25,849 - str to boolFalse
+2024-09-08 21:14:25,849 - str to boolFalse
+2024-09-08 21:14:25,849 - str to boolTrue
+2024-09-08 21:14:25,849 - str to boolFalse
+2024-09-08 21:14:25,849 - Settings applied to scene 'Scene'
+2024-09-08 21:14:26,284 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2.blend', 'FileName': 'my copy 2.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 249, 'Render_Samples': 64, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': True, 'noise_t': 0.009999999776482582, 'Ambient_Occlusion': True, 'Subsurface_Reflection': True, 'Simplify': True, 'Bloom': True, 'Motion_Blur': True}
+2024-09-08 21:14:26,285 - str to boolTrue
+2024-09-08 21:14:26,285 - str to boolTrue
+2024-09-08 21:14:26,285 - str to boolTrue
+2024-09-08 21:14:26,285 - str to boolTrue
+2024-09-08 21:14:26,286 - str to boolTrue
+2024-09-08 21:14:26,286 - str to boolTrue
+2024-09-08 21:14:26,286 - Settings applied to scene 'Scene'
+2024-09-08 21:19:09,444 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 3.blend', 'FileName': 'my copy 3.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 247, 'Render_Samples': 64, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.009999999776482582, 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 21:19:09,446 - str to boolFalse
+2024-09-08 21:19:09,446 - str to boolFalse
+2024-09-08 21:19:09,446 - str to boolFalse
+2024-09-08 21:19:09,447 - str to boolFalse
+2024-09-08 21:19:09,447 - str to boolTrue
+2024-09-08 21:19:09,447 - str to boolFalse
+2024-09-08 21:19:09,447 - Settings applied to scene 'Scene'
+2024-09-08 21:19:09,878 - APPLY {'FilePath': 'E:\\My Drive\\Project\\Blender_Directory_Checker\\test_file\\my copy 2_modified.blend', 'FileName': 'my copy 2_modified.blend', 'Render_Engine': 'BLENDER_EEVEE', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 248, 'Render_Samples': 64, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'World', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.009999999776482582, 'Ambient_Occlusion': False, 'Subsurface_Reflection': False, 'Simplify': False, 'Bloom': False, 'Motion_Blur': True}
+2024-09-08 21:19:09,880 - str to boolFalse
+2024-09-08 21:19:09,880 - str to boolFalse
+2024-09-08 21:19:09,880 - str to boolFalse
+2024-09-08 21:19:09,880 - str to boolFalse
+2024-09-08 21:19:09,880 - str to boolTrue
+2024-09-08 21:19:09,881 - str to boolFalse
+2024-09-08 21:19:09,881 - Settings applied to scene 'Scene'
+2024-09-08 21:43:39,819 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH001_ANM.blend', 'FileName': 'SC03_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 73, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:43:39,822 - str to boolFalse
+2024-09-08 21:43:39,823 - str to boolFalse
+2024-09-08 21:43:39,823 - Settings applied to scene 'Scene'
+2024-09-08 21:43:43,325 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH002_ANM_REV.blend', 'FileName': 'SC03_SH002_ANM_REV.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 72, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:43:43,327 - str to boolFalse
+2024-09-08 21:43:43,327 - str to boolFalse
+2024-09-08 21:43:43,327 - Settings applied to scene 'Scene'
+2024-09-08 21:43:49,819 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH003_ANM.blend', 'FileName': 'SC03_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 72, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:43:49,823 - str to boolFalse
+2024-09-08 21:43:49,824 - str to boolFalse
+2024-09-08 21:43:49,824 - Settings applied to scene 'Scene'
+2024-09-08 21:43:53,611 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH004_ANM.blend', 'FileName': 'SC03_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 114, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:43:53,613 - str to boolFalse
+2024-09-08 21:43:53,614 - str to boolFalse
+2024-09-08 21:43:53,614 - Settings applied to scene 'Scene'
+2024-09-08 21:43:57,500 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH005_ANM.blend', 'FileName': 'SC03_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 134, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:43:57,511 - str to boolFalse
+2024-09-08 21:43:57,512 - str to boolFalse
+2024-09-08 21:43:57,512 - Settings applied to scene 'Scene'
+2024-09-08 21:44:01,736 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH006_ANM.blend', 'FileName': 'SC03_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 28, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:44:01,739 - str to boolFalse
+2024-09-08 21:44:01,739 - str to boolFalse
+2024-09-08 21:44:01,739 - Settings applied to scene 'Scene'
+2024-09-08 21:44:06,287 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH007_ANM.blend', 'FileName': 'SC03_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 55, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:44:06,290 - str to boolFalse
+2024-09-08 21:44:06,290 - str to boolFalse
+2024-09-08 21:44:06,290 - Settings applied to scene 'Scene'
+2024-09-08 21:44:11,006 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH008_ANM.blend', 'FileName': 'SC03_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 55, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:44:11,008 - str to boolFalse
+2024-09-08 21:44:11,008 - str to boolFalse
+2024-09-08 21:44:11,008 - Settings applied to scene 'Scene'
+2024-09-08 21:44:15,000 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH009_ANM.blend', 'FileName': 'SC03_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 71, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:44:15,002 - str to boolFalse
+2024-09-08 21:44:15,003 - str to boolFalse
+2024-09-08 21:44:15,003 - Settings applied to scene 'Scene'
+2024-09-08 21:44:18,958 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC03\\SC03_SH010_ANM.blend', 'FileName': 'SC03_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'FPS': 24, 'Total_Frames': 80, 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': '//', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.07500000298023224, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 21:44:18,961 - str to boolFalse
+2024-09-08 21:44:18,962 - str to boolFalse
+2024-09-08 21:44:18,962 - Settings applied to scene 'Scene'
+2024-09-08 22:17:21,952 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH008_ANM_QC.blend', 'FileName': 'SC06_SH008_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '103 (742-845)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:21,953 - str to boolFalse
+2024-09-08 22:17:21,954 - str to boolFalse
+2024-09-08 22:17:21,954 - All video sequences removed.
+2024-09-08 22:17:21,954 - Settings applied to scene 'Scene'
+2024-09-08 22:17:25,420 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH009_ANM_QC.blend', 'FileName': 'SC06_SH009_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '293 (845-1138)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:25,424 - str to boolFalse
+2024-09-08 22:17:25,424 - str to boolFalse
+2024-09-08 22:17:25,424 - All video sequences removed.
+2024-09-08 22:17:25,425 - Settings applied to scene 'Scene'
+2024-09-08 22:17:28,682 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH003_ANM_QC.blend', 'FileName': 'SC06_SH003_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '49 (183-232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:28,684 - str to boolFalse
+2024-09-08 22:17:28,685 - str to boolFalse
+2024-09-08 22:17:28,685 - All video sequences removed.
+2024-09-08 22:17:28,685 - Settings applied to scene 'Scene'
+2024-09-08 22:17:32,135 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH005_ANM_QC.blend', 'FileName': 'SC06_SH005_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '116 (474-590)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:32,137 - str to boolFalse
+2024-09-08 22:17:32,137 - str to boolFalse
+2024-09-08 22:17:32,138 - All video sequences removed.
+2024-09-08 22:17:32,138 - Settings applied to scene 'Scene'
+2024-09-08 22:17:35,709 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH002_ANM_QC.blend', 'FileName': 'SC06_SH002_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '105 (78-183)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH02_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:35,710 - str to boolFalse
+2024-09-08 22:17:35,711 - str to boolFalse
+2024-09-08 22:17:35,711 - All video sequences removed.
+2024-09-08 22:17:35,711 - Settings applied to scene 'Scene'
+2024-09-08 22:17:39,235 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH007_ANM_QC.blend', 'FileName': 'SC06_SH007_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '72 (670-742)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:39,237 - str to boolFalse
+2024-09-08 22:17:39,237 - str to boolFalse
+2024-09-08 22:17:39,237 - All video sequences removed.
+2024-09-08 22:17:39,237 - Settings applied to scene 'Scene'
+2024-09-08 22:17:42,721 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH006_ANM_QC.blend', 'FileName': 'SC06_SH006_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '80 (590-670)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:42,723 - str to boolFalse
+2024-09-08 22:17:42,724 - str to boolFalse
+2024-09-08 22:17:42,724 - All video sequences removed.
+2024-09-08 22:17:42,724 - Settings applied to scene 'Scene'
+2024-09-08 22:17:46,002 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH001_ANM_QC.blend', 'FileName': 'SC06_SH001_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '77 (1-78)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH01_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:46,004 - str to boolFalse
+2024-09-08 22:17:46,004 - str to boolFalse
+2024-09-08 22:17:46,005 - Settings applied to scene 'Scene'
+2024-09-08 22:17:48,922 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH010_ANM_QC.blend', 'FileName': 'SC06_SH010_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '94 (1138-1232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:48,924 - str to boolFalse
+2024-09-08 22:17:48,924 - str to boolFalse
+2024-09-08 22:17:48,924 - All video sequences removed.
+2024-09-08 22:17:48,925 - Settings applied to scene 'Scene'
+2024-09-08 22:17:52,445 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH011_ANM_QC.blend', 'FileName': 'SC06_SH011_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '97 (1232-1329)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:52,447 - str to boolFalse
+2024-09-08 22:17:52,447 - str to boolFalse
+2024-09-08 22:17:52,448 - All video sequences removed.
+2024-09-08 22:17:52,448 - Settings applied to scene 'Scene'
+2024-09-08 22:17:56,006 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH013_ANM_QC.blend', 'FileName': 'SC06_SH013_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '84 (1457-1541)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:56,008 - str to boolFalse
+2024-09-08 22:17:56,008 - str to boolFalse
+2024-09-08 22:17:56,008 - All video sequences removed.
+2024-09-08 22:17:56,009 - Settings applied to scene 'Scene'
+2024-09-08 22:17:59,504 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH004_ANM_QC.blend', 'FileName': 'SC06_SH004_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '242 (232-474)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:17:59,506 - str to boolFalse
+2024-09-08 22:17:59,506 - str to boolFalse
+2024-09-08 22:17:59,507 - All video sequences removed.
+2024-09-08 22:17:59,507 - Settings applied to scene 'Scene'
+2024-09-08 22:18:02,878 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH012_ANM_QC.blend', 'FileName': 'SC06_SH012_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '128 (1329-1457)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:18:02,879 - str to boolFalse
+2024-09-08 22:18:02,880 - str to boolFalse
+2024-09-08 22:18:02,880 - All video sequences removed.
+2024-09-08 22:18:02,880 - Settings applied to scene 'Scene'
+2024-09-08 22:18:06,228 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH014_ANM_QC.blend', 'FileName': 'SC06_SH014_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '83 (1541-1624)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'FFMPEG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:18:06,230 - str to boolFalse
+2024-09-08 22:18:06,231 - str to boolFalse
+2024-09-08 22:18:06,231 - All video sequences removed.
+2024-09-08 22:18:06,231 - Settings applied to scene 'Scene'
+2024-09-08 22:45:09,582 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH008_ANM_QC.blend', 'FileName': 'SC06_SH008_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '103 (742-845)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:09,584 - str to boolFalse
+2024-09-08 22:45:12,064 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH009_ANM_QC.blend', 'FileName': 'SC06_SH009_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '293 (845-1138)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:12,066 - str to boolFalse
+2024-09-08 22:45:14,445 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH003_ANM_QC.blend', 'FileName': 'SC06_SH003_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '49 (183-232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:14,447 - str to boolFalse
+2024-09-08 22:45:16,936 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH005_ANM_QC.blend', 'FileName': 'SC06_SH005_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '116 (474-590)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:16,937 - str to boolFalse
+2024-09-08 22:45:19,427 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH002_ANM_QC.blend', 'FileName': 'SC06_SH002_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '105 (78-183)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH02_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:19,430 - str to boolFalse
+2024-09-08 22:45:21,939 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH007_ANM_QC.blend', 'FileName': 'SC06_SH007_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '72 (670-742)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:21,943 - str to boolFalse
+2024-09-08 22:45:24,367 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH006_ANM_QC.blend', 'FileName': 'SC06_SH006_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '80 (590-670)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:24,370 - str to boolFalse
+2024-09-08 22:45:26,741 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH001_ANM_QC.blend', 'FileName': 'SC06_SH001_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '77 (1-78)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH01_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:26,743 - str to boolTrue
+2024-09-08 22:45:29,167 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH010_ANM_QC.blend', 'FileName': 'SC06_SH010_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '94 (1138-1232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:29,170 - str to boolFalse
+2024-09-08 22:45:31,651 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH011_ANM_QC.blend', 'FileName': 'SC06_SH011_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '97 (1232-1329)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:31,652 - str to boolFalse
+2024-09-08 22:45:34,160 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH013_ANM_QC.blend', 'FileName': 'SC06_SH013_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '84 (1457-1541)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:34,161 - str to boolFalse
+2024-09-08 22:45:36,592 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH004_ANM_QC.blend', 'FileName': 'SC06_SH004_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '242 (232-474)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:36,594 - str to boolFalse
+2024-09-08 22:45:39,046 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH012_ANM_QC.blend', 'FileName': 'SC06_SH012_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '128 (1329-1457)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:39,048 - str to boolFalse
+2024-09-08 22:45:41,491 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH014_ANM_QC.blend', 'FileName': 'SC06_SH014_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '83 (1541-1624)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:45:41,493 - str to boolFalse
+2024-09-08 22:55:01,353 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH008_ANM_QC.blend', 'FileName': 'SC06_SH008_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '103 (742-845)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:01,355 - str to boolFalse
+2024-09-08 22:55:01,355 - str to boolFalse
+2024-09-08 22:55:01,356 - All video sequences removed.
+2024-09-08 22:55:01,356 - Settings applied to scene 'Scene'
+2024-09-08 22:55:04,733 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH009_ANM_QC.blend', 'FileName': 'SC06_SH009_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '293 (845-1138)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:04,735 - str to boolFalse
+2024-09-08 22:55:04,736 - str to boolFalse
+2024-09-08 22:55:04,736 - All video sequences removed.
+2024-09-08 22:55:04,736 - Settings applied to scene 'Scene'
+2024-09-08 22:55:08,016 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH003_ANM_QC.blend', 'FileName': 'SC06_SH003_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '49 (183-232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:08,018 - str to boolFalse
+2024-09-08 22:55:08,019 - str to boolFalse
+2024-09-08 22:55:08,020 - All video sequences removed.
+2024-09-08 22:55:08,020 - Settings applied to scene 'Scene'
+2024-09-08 22:55:11,352 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH005_ANM_QC.blend', 'FileName': 'SC06_SH005_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '116 (474-590)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:11,354 - str to boolFalse
+2024-09-08 22:55:11,354 - str to boolFalse
+2024-09-08 22:55:11,354 - All video sequences removed.
+2024-09-08 22:55:11,354 - Settings applied to scene 'Scene'
+2024-09-08 22:55:14,875 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH002_ANM_QC.blend', 'FileName': 'SC06_SH002_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '105 (78-183)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH02_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:14,877 - str to boolFalse
+2024-09-08 22:55:14,879 - str to boolFalse
+2024-09-08 22:55:14,879 - All video sequences removed.
+2024-09-08 22:55:14,879 - Settings applied to scene 'Scene'
+2024-09-08 22:55:18,411 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH007_ANM_QC.blend', 'FileName': 'SC06_SH007_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '72 (670-742)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:18,413 - str to boolFalse
+2024-09-08 22:55:18,414 - str to boolFalse
+2024-09-08 22:55:18,414 - All video sequences removed.
+2024-09-08 22:55:18,414 - Settings applied to scene 'Scene'
+2024-09-08 22:55:21,905 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH006_ANM_QC.blend', 'FileName': 'SC06_SH006_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '80 (590-670)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:21,906 - str to boolFalse
+2024-09-08 22:55:21,907 - str to boolFalse
+2024-09-08 22:55:21,907 - All video sequences removed.
+2024-09-08 22:55:21,907 - Settings applied to scene 'Scene'
+2024-09-08 22:55:25,139 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH001_ANM_QC.blend', 'FileName': 'SC06_SH001_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '77 (1-78)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH01_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:25,141 - str to boolFalse
+2024-09-08 22:55:25,141 - str to boolFalse
+2024-09-08 22:55:25,141 - Settings applied to scene 'Scene'
+2024-09-08 22:55:28,082 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH010_ANM_QC.blend', 'FileName': 'SC06_SH010_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '94 (1138-1232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:28,084 - str to boolFalse
+2024-09-08 22:55:28,084 - str to boolFalse
+2024-09-08 22:55:28,085 - All video sequences removed.
+2024-09-08 22:55:28,085 - Settings applied to scene 'Scene'
+2024-09-08 22:55:31,521 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH011_ANM_QC.blend', 'FileName': 'SC06_SH011_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '97 (1232-1329)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:31,523 - str to boolFalse
+2024-09-08 22:55:31,523 - str to boolFalse
+2024-09-08 22:55:31,524 - All video sequences removed.
+2024-09-08 22:55:31,524 - Settings applied to scene 'Scene'
+2024-09-08 22:55:35,083 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH013_ANM_QC.blend', 'FileName': 'SC06_SH013_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '84 (1457-1541)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:35,085 - str to boolFalse
+2024-09-08 22:55:35,085 - str to boolFalse
+2024-09-08 22:55:35,085 - All video sequences removed.
+2024-09-08 22:55:35,086 - Settings applied to scene 'Scene'
+2024-09-08 22:55:38,561 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH004_ANM_QC.blend', 'FileName': 'SC06_SH004_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '242 (232-474)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:38,563 - str to boolFalse
+2024-09-08 22:55:38,564 - str to boolFalse
+2024-09-08 22:55:38,564 - All video sequences removed.
+2024-09-08 22:55:38,564 - Settings applied to scene 'Scene'
+2024-09-08 22:55:41,943 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH012_ANM_QC.blend', 'FileName': 'SC06_SH012_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '128 (1329-1457)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:41,945 - str to boolFalse
+2024-09-08 22:55:41,946 - str to boolFalse
+2024-09-08 22:55:41,946 - All video sequences removed.
+2024-09-08 22:55:41,946 - Settings applied to scene 'Scene'
+2024-09-08 22:55:45,342 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC06_SH014_ANM_QC.blend', 'FileName': 'SC06_SH014_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '83 (1541-1624)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 22:55:45,344 - str to boolFalse
+2024-09-08 22:55:45,345 - str to boolFalse
+2024-09-08 22:55:45,345 - All video sequences removed.
+2024-09-08 22:55:45,345 - Settings applied to scene 'Scene'
+2024-09-08 23:10:52,777 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC09_SH006_ANM.blend', 'FileName': 'SC09_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '107 (1-108)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC09_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.8799999952316284, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:10:52,779 - str to boolFalse
+2024-09-08 23:10:52,779 - str to boolFalse
+2024-09-08 23:10:52,779 - All video sequences removed.
+2024-09-08 23:10:52,779 - Settings applied to scene 'Scene'
+2024-09-08 23:10:55,159 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC09_SH005_ANM.blend', 'FileName': 'SC09_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '139 (1-140)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC09_SH005_ANMM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.8799999952316284, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:10:55,160 - str to boolFalse
+2024-09-08 23:10:55,161 - str to boolFalse
+2024-09-08 23:10:55,161 - All video sequences removed.
+2024-09-08 23:10:55,161 - Settings applied to scene 'Scene'
+2024-09-08 23:10:57,533 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC09_SH003_ANM.blend', 'FileName': 'SC09_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '144 (1-145)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC09_SH003_ANMv2.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:10:57,535 - str to boolFalse
+2024-09-08 23:10:57,536 - str to boolFalse
+2024-09-08 23:10:57,536 - All video sequences removed.
+2024-09-08 23:10:57,536 - Settings applied to scene 'Scene'
+2024-09-08 23:10:59,844 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC09_SH002_ANM.blend', 'FileName': 'SC09_SH002_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '51 (1-52)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC09_SH002_ANMv2.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:10:59,846 - str to boolFalse
+2024-09-08 23:10:59,847 - str to boolFalse
+2024-09-08 23:10:59,847 - All video sequences removed.
+2024-09-08 23:10:59,847 - Settings applied to scene 'Scene'
+2024-09-08 23:11:02,157 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC09_SH001_ANM.blend', 'FileName': 'SC09_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '91 (1-92)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC09_SH002_ANM', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.8799999952316284, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:11:02,159 - str to boolFalse
+2024-09-08 23:11:02,160 - str to boolFalse
+2024-09-08 23:11:02,160 - Settings applied to scene 'Scene'
+2024-09-08 23:29:44,091 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH008_ANM_QC.blend', 'FileName': 'SC06_SH008_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '103 (742-845)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:29:44,093 - str to boolFalse
+2024-09-08 23:29:44,093 - str to boolFalse
+2024-09-08 23:29:44,094 - Settings applied to scene 'Scene'
+2024-09-08 23:29:47,623 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH009_ANM_QC.blend', 'FileName': 'SC06_SH009_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '293 (845-1138)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:29:47,625 - str to boolFalse
+2024-09-08 23:29:47,625 - str to boolFalse
+2024-09-08 23:29:47,625 - Settings applied to scene 'Scene'
+2024-09-08 23:29:51,184 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH003_ANM_QC.blend', 'FileName': 'SC06_SH003_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '49 (183-232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:29:51,191 - str to boolFalse
+2024-09-08 23:29:51,191 - str to boolFalse
+2024-09-08 23:29:51,192 - Settings applied to scene 'Scene'
+2024-09-08 23:29:54,678 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH005_ANM_QC.blend', 'FileName': 'SC06_SH005_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '116 (474-590)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:29:54,681 - str to boolFalse
+2024-09-08 23:29:54,681 - str to boolFalse
+2024-09-08 23:29:54,682 - Settings applied to scene 'Scene'
+2024-09-08 23:29:58,190 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH002_ANM_QC.blend', 'FileName': 'SC06_SH002_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '105 (78-183)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH02_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:29:58,193 - str to boolFalse
+2024-09-08 23:29:58,193 - str to boolFalse
+2024-09-08 23:29:58,194 - Settings applied to scene 'Scene'
+2024-09-08 23:30:01,866 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH007_ANM_QC.blend', 'FileName': 'SC06_SH007_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '72 (670-742)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:01,868 - str to boolFalse
+2024-09-08 23:30:01,869 - str to boolFalse
+2024-09-08 23:30:01,869 - Settings applied to scene 'Scene'
+2024-09-08 23:30:05,443 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH006_ANM_QC.blend', 'FileName': 'SC06_SH006_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '80 (590-670)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:05,445 - str to boolFalse
+2024-09-08 23:30:05,445 - str to boolFalse
+2024-09-08 23:30:05,445 - Settings applied to scene 'Scene'
+2024-09-08 23:30:08,423 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH001_ANM_QC.blend', 'FileName': 'SC06_SH001_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '77 (1-78)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH01_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:08,425 - str to boolFalse
+2024-09-08 23:30:08,425 - str to boolFalse
+2024-09-08 23:30:08,425 - Settings applied to scene 'Scene'
+2024-09-08 23:30:11,692 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH010_ANM_QC.blend', 'FileName': 'SC06_SH010_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '94 (1138-1232)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:11,694 - str to boolFalse
+2024-09-08 23:30:11,695 - str to boolFalse
+2024-09-08 23:30:11,695 - Settings applied to scene 'Scene'
+2024-09-08 23:30:15,192 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH011_ANM_QC.blend', 'FileName': 'SC06_SH011_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '97 (1232-1329)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:15,194 - str to boolFalse
+2024-09-08 23:30:15,195 - str to boolFalse
+2024-09-08 23:30:15,195 - Settings applied to scene 'Scene'
+2024-09-08 23:30:18,789 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH013_ANM_QC.blend', 'FileName': 'SC06_SH013_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '84 (1457-1541)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:18,791 - str to boolFalse
+2024-09-08 23:30:18,791 - str to boolFalse
+2024-09-08 23:30:18,791 - Settings applied to scene 'Scene'
+2024-09-08 23:30:22,259 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH004_ANM_QC.blend', 'FileName': 'SC06_SH004_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '242 (232-474)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:22,261 - str to boolFalse
+2024-09-08 23:30:22,261 - str to boolFalse
+2024-09-08 23:30:22,262 - Settings applied to scene 'Scene'
+2024-09-08 23:30:25,645 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH012_ANM_QC.blend', 'FileName': 'SC06_SH012_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '128 (1329-1457)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:25,648 - str to boolFalse
+2024-09-08 23:30:25,648 - str to boolFalse
+2024-09-08 23:30:25,648 - Settings applied to scene 'Scene'
+2024-09-08 23:30:29,010 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC06\\SC06_SH014_ANM_QC.blend', 'FileName': 'SC06_SH014_ANM_QC.blend', 'Render_Engine': 'CYCLES', 'blender_ver': (3, 6, 13), 'Total_Frames': '83 (1541-1624)', 'Render_Samples': 256, 'Resolution_X': 1920, 'Resolution_Y': 1080, 'File_Path': 'D:\\BOZ\\05_Animation\\PB\\SC06_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': 100, 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': 0.75, 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-08 23:30:29,012 - str to boolFalse
+2024-09-08 23:30:29,012 - str to boolFalse
+2024-09-08 23:30:29,012 - Settings applied to scene 'Scene'
+2024-09-10 00:12:21,747 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH001_ANM.blend', 'FileName': 'SC04_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (1-73)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//..\\PB\\SC04_SH001_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:21,748 - str to boolFalse
+2024-09-10 00:12:21,749 - str to boolFalse
+2024-09-10 00:12:21,749 - All video sequences removed.
+2024-09-10 00:12:21,749 - Settings applied to scene 'Scene'
+2024-09-10 00:12:22,756 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH005_ANM.blend', 'FileName': 'SC04_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '177 (292-469)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:22,758 - str to boolFalse
+2024-09-10 00:12:22,758 - str to boolFalse
+2024-09-10 00:12:22,758 - All video sequences removed.
+2024-09-10 00:12:22,759 - Settings applied to scene 'Scene'
+2024-09-10 00:12:23,828 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH004_ANM.blend', 'FileName': 'SC04_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '75 (217-292)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:23,829 - str to boolFalse
+2024-09-10 00:12:23,830 - str to boolFalse
+2024-09-10 00:12:23,830 - All video sequences removed.
+2024-09-10 00:12:23,830 - Settings applied to scene 'Scene'
+2024-09-10 00:12:24,949 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH006_ANM.blend', 'FileName': 'SC04_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '79 (469-548)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:24,955 - str to boolFalse
+2024-09-10 00:12:24,956 - str to boolFalse
+2024-09-10 00:12:24,956 - All video sequences removed.
+2024-09-10 00:12:24,956 - Settings applied to scene 'Scene'
+2024-09-10 00:12:25,916 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH007_ANM.blend', 'FileName': 'SC04_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '85 (548-633)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:25,917 - str to boolFalse
+2024-09-10 00:12:25,917 - str to boolFalse
+2024-09-10 00:12:25,918 - All video sequences removed.
+2024-09-10 00:12:25,918 - Settings applied to scene 'Scene'
+2024-09-10 00:12:27,117 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH008_ANM.blend', 'FileName': 'SC04_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '96 (634-730)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:27,122 - str to boolFalse
+2024-09-10 00:12:27,124 - str to boolFalse
+2024-09-10 00:12:27,124 - All video sequences removed.
+2024-09-10 00:12:27,124 - Settings applied to scene 'Scene'
+2024-09-10 00:12:28,506 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH009_ANM.blend', 'FileName': 'SC04_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '65 (730-795)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:28,507 - str to boolFalse
+2024-09-10 00:12:28,508 - str to boolFalse
+2024-09-10 00:12:28,508 - All video sequences removed.
+2024-09-10 00:12:28,508 - Settings applied to scene 'Scene'
+2024-09-10 00:12:29,760 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH003_ANM.blend', 'FileName': 'SC04_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (145-217)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': '//..\\PB\\SC04_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:29,765 - str to boolFalse
+2024-09-10 00:12:29,766 - str to boolFalse
+2024-09-10 00:12:29,766 - All video sequences removed.
+2024-09-10 00:12:29,766 - Settings applied to scene 'Scene'
+2024-09-10 00:12:31,073 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH012_ANM.blend', 'FileName': 'SC04_SH012_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '34 (1256-1290)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:31,075 - str to boolFalse
+2024-09-10 00:12:31,075 - str to boolFalse
+2024-09-10 00:12:31,075 - All video sequences removed.
+2024-09-10 00:12:31,076 - Settings applied to scene 'Scene'
+2024-09-10 00:12:32,328 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH011_ANM.blend', 'FileName': 'SC04_SH011_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '215 (1041-1256)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:32,332 - str to boolFalse
+2024-09-10 00:12:32,333 - str to boolFalse
+2024-09-10 00:12:32,333 - All video sequences removed.
+2024-09-10 00:12:32,333 - Settings applied to scene 'Scene'
+2024-09-10 00:12:33,294 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH010_ANM.blend', 'FileName': 'SC04_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '246 (795-1041)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:33,294 - str to boolFalse
+2024-09-10 00:12:33,296 - str to boolFalse
+2024-09-10 00:12:33,296 - All video sequences removed.
+2024-09-10 00:12:33,296 - Settings applied to scene 'Scene'
+2024-09-10 00:12:34,175 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH014_ANM.blend', 'FileName': 'SC04_SH014_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (1397-1469)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:34,178 - str to boolFalse
+2024-09-10 00:12:34,178 - str to boolFalse
+2024-09-10 00:12:34,179 - All video sequences removed.
+2024-09-10 00:12:34,179 - Settings applied to scene 'Scene'
+2024-09-10 00:12:35,414 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH013_ANM.blend', 'FileName': 'SC04_SH013_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '107 (1290-1397)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH013_ANM', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:35,419 - str to boolFalse
+2024-09-10 00:12:35,420 - str to boolFalse
+2024-09-10 00:12:35,420 - All video sequences removed.
+2024-09-10 00:12:35,420 - Settings applied to scene 'Scene'
+2024-09-10 00:12:36,686 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH015_ANM.blend', 'FileName': 'SC04_SH015_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (1469-1541)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH015_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:36,688 - str to boolFalse
+2024-09-10 00:12:36,688 - str to boolFalse
+2024-09-10 00:12:36,688 - All video sequences removed.
+2024-09-10 00:12:36,688 - Settings applied to scene 'Scene'
+2024-09-10 00:12:37,821 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC04_SH016_ANM.blend', 'FileName': 'SC04_SH016_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '49 (1541-1590)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC04_SH016_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-10 00:12:37,822 - str to boolFalse
+2024-09-10 00:12:37,822 - str to boolFalse
+2024-09-10 00:12:37,822 - All video sequences removed.
+2024-09-10 00:12:37,822 - Settings applied to scene 'Scene'
+2024-09-13 19:39:40,276 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh03_ANIM.blend', 'FileName': 'Scene8_Sh03_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (144-216)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh03_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:40,293 - str to boolFalse
+2024-09-13 19:39:40,293 - str to boolFalse
+2024-09-13 19:39:40,295 - All video sequences removed.
+2024-09-13 19:39:40,295 - Settings applied to scene 'Scene'
+2024-09-13 19:39:41,348 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh01_ANIM.blend', 'FileName': 'Scene8_Sh01_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh01_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:41,350 - str to boolFalse
+2024-09-13 19:39:41,351 - str to boolFalse
+2024-09-13 19:39:41,351 - All video sequences removed.
+2024-09-13 19:39:41,351 - Settings applied to scene 'Scene'
+2024-09-13 19:39:42,720 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh06_ANIM.blend', 'FileName': 'Scene8_Sh06_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '135 (508-643)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh06_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:42,723 - str to boolFalse
+2024-09-13 19:39:42,724 - str to boolFalse
+2024-09-13 19:39:42,724 - All video sequences removed.
+2024-09-13 19:39:42,724 - Settings applied to scene 'Scene'
+2024-09-13 19:39:43,736 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh010_ANIM.blend', 'FileName': 'Scene8_Sh010_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '293 (788-1081)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh010_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:43,738 - str to boolFalse
+2024-09-13 19:39:43,738 - str to boolFalse
+2024-09-13 19:39:43,739 - All video sequences removed.
+2024-09-13 19:39:43,739 - Settings applied to scene 'Scene'
+2024-09-13 19:39:44,603 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh02_ANIM.blend', 'FileName': 'Scene8_Sh02_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (72-144)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh02_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:44,608 - str to boolFalse
+2024-09-13 19:39:44,608 - str to boolFalse
+2024-09-13 19:39:44,609 - All video sequences removed.
+2024-09-13 19:39:44,609 - Settings applied to scene 'Scene'
+2024-09-13 19:39:45,491 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh04_ANIM.blend', 'FileName': 'Scene8_Sh04_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (216-287)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh04_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:45,495 - str to boolFalse
+2024-09-13 19:39:45,495 - str to boolFalse
+2024-09-13 19:39:45,495 - All video sequences removed.
+2024-09-13 19:39:45,496 - Settings applied to scene 'Scene'
+2024-09-13 19:39:46,399 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh05_ANIM.blend', 'FileName': 'Scene8_Sh05_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '221 (287-508)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh05_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:46,400 - str to boolFalse
+2024-09-13 19:39:46,401 - str to boolFalse
+2024-09-13 19:39:46,401 - All video sequences removed.
+2024-09-13 19:39:46,401 - Settings applied to scene 'Scene'
+2024-09-13 19:39:47,390 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh09_ANIM.blend', 'FileName': 'Scene8_Sh09_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '42 (746-788)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh09_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:47,392 - str to boolFalse
+2024-09-13 19:39:47,392 - str to boolFalse
+2024-09-13 19:39:47,392 - All video sequences removed.
+2024-09-13 19:39:47,393 - Settings applied to scene 'Scene'
+2024-09-13 19:39:48,362 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh011_ANIM.blend', 'FileName': 'Scene8_Sh011_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '122 (1081-1203)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh011_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:48,363 - str to boolFalse
+2024-09-13 19:39:48,364 - str to boolFalse
+2024-09-13 19:39:48,365 - All video sequences removed.
+2024-09-13 19:39:48,365 - Settings applied to scene 'Scene'
+2024-09-13 19:39:49,240 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh013_ANIM.blend', 'FileName': 'Scene8_Sh013_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (1318-1390)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh013_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:49,242 - str to boolFalse
+2024-09-13 19:39:49,242 - str to boolFalse
+2024-09-13 19:39:49,242 - All video sequences removed.
+2024-09-13 19:39:49,242 - Settings applied to scene 'Scene'
+2024-09-13 19:39:50,013 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh014_ANIM.blend', 'FileName': 'Scene8_Sh014_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '158 (1390-1548)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh014_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:50,015 - str to boolFalse
+2024-09-13 19:39:50,015 - str to boolFalse
+2024-09-13 19:39:50,015 - All video sequences removed.
+2024-09-13 19:39:50,015 - Settings applied to scene 'Scene'
+2024-09-13 19:39:50,888 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh07_ANIM.blend', 'FileName': 'Scene8_Sh07_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '67 (643-710)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh07_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:50,890 - str to boolFalse
+2024-09-13 19:39:50,890 - str to boolFalse
+2024-09-13 19:39:50,890 - All video sequences removed.
+2024-09-13 19:39:50,890 - Settings applied to scene 'Scene'
+2024-09-13 19:39:51,947 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh08_ANIM.blend', 'FileName': 'Scene8_Sh08_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '36 (710-746)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh08_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:51,949 - str to boolFalse
+2024-09-13 19:39:51,949 - str to boolFalse
+2024-09-13 19:39:51,949 - All video sequences removed.
+2024-09-13 19:39:51,950 - Settings applied to scene 'Scene'
+2024-09-13 19:39:52,694 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh012_ANIM.blend', 'FileName': 'Scene8_Sh012_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '115 (1203-1318)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh012_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky.001', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:52,695 - str to boolFalse
+2024-09-13 19:39:52,695 - str to boolFalse
+2024-09-13 19:39:52,697 - All video sequences removed.
+2024-09-13 19:39:52,697 - Settings applied to scene 'Scene'
+2024-09-13 19:39:53,464 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh015_ANIM.blend', 'FileName': 'Scene8_Sh015_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '96 (1548-1644)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh015_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:53,466 - str to boolFalse
+2024-09-13 19:39:53,466 - str to boolFalse
+2024-09-13 19:39:53,467 - All video sequences removed.
+2024-09-13 19:39:53,467 - Settings applied to scene 'Scene'
+2024-09-13 19:39:54,228 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh016_ANIM.blend', 'FileName': 'Scene8_Sh016_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '178 (1644-1822)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh016_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:54,229 - str to boolFalse
+2024-09-13 19:39:54,230 - str to boolFalse
+2024-09-13 19:39:54,230 - All video sequences removed.
+2024-09-13 19:39:54,230 - Settings applied to scene 'Scene'
+2024-09-13 19:39:55,001 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh018_ANIM.blend', 'FileName': 'Scene8_Sh018_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '99 (1940-2039)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh018_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:55,002 - str to boolFalse
+2024-09-13 19:39:55,002 - str to boolFalse
+2024-09-13 19:39:55,003 - All video sequences removed.
+2024-09-13 19:39:55,003 - Settings applied to scene 'Scene'
+2024-09-13 19:39:55,780 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh017_ANIM.blend', 'FileName': 'Scene8_Sh017_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '118 (1822-1940)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh017_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:39:55,782 - str to boolFalse
+2024-09-13 19:39:55,782 - str to boolFalse
+2024-09-13 19:39:55,782 - All video sequences removed.
+2024-09-13 19:39:55,782 - Settings applied to scene 'Scene'
+2024-09-13 19:52:31,691 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh03_ANIM.blend', 'FileName': 'Scene8_Sh03_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (144-216)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh03_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:31,694 - str to boolFalse
+2024-09-13 19:52:31,694 - str to boolFalse
+2024-09-13 19:52:31,694 - Settings applied to scene 'Scene'
+2024-09-13 19:52:32,754 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh01_ANIM.blend', 'FileName': 'Scene8_Sh01_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh01_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:32,756 - str to boolFalse
+2024-09-13 19:52:32,756 - str to boolFalse
+2024-09-13 19:52:32,756 - Settings applied to scene 'Scene'
+2024-09-13 19:52:33,762 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh06_ANIM.blend', 'FileName': 'Scene8_Sh06_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '135 (508-643)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh06_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:33,766 - str to boolFalse
+2024-09-13 19:52:33,766 - str to boolFalse
+2024-09-13 19:52:33,766 - Settings applied to scene 'Scene'
+2024-09-13 19:52:34,669 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh010_ANIM.blend', 'FileName': 'Scene8_Sh010_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '293 (788-1081)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh010_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:34,675 - str to boolFalse
+2024-09-13 19:52:34,675 - str to boolFalse
+2024-09-13 19:52:34,675 - Settings applied to scene 'Scene'
+2024-09-13 19:52:35,563 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh02_ANIM.blend', 'FileName': 'Scene8_Sh02_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (72-144)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh02_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:35,567 - str to boolFalse
+2024-09-13 19:52:35,568 - str to boolFalse
+2024-09-13 19:52:35,568 - Settings applied to scene 'Scene'
+2024-09-13 19:52:36,432 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh04_ANIM.blend', 'FileName': 'Scene8_Sh04_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (216-287)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh04_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:36,436 - str to boolFalse
+2024-09-13 19:52:36,436 - str to boolFalse
+2024-09-13 19:52:36,436 - Settings applied to scene 'Scene'
+2024-09-13 19:52:37,296 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh05_ANIM.blend', 'FileName': 'Scene8_Sh05_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '221 (287-508)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh05_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:37,302 - str to boolFalse
+2024-09-13 19:52:37,302 - str to boolFalse
+2024-09-13 19:52:37,302 - Settings applied to scene 'Scene'
+2024-09-13 19:52:38,304 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh09_ANIM.blend', 'FileName': 'Scene8_Sh09_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '42 (746-788)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh09_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:38,307 - str to boolFalse
+2024-09-13 19:52:38,308 - str to boolFalse
+2024-09-13 19:52:38,308 - Settings applied to scene 'Scene'
+2024-09-13 19:52:39,306 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh011_ANIM.blend', 'FileName': 'Scene8_Sh011_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '122 (1081-1203)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh011_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:39,311 - str to boolFalse
+2024-09-13 19:52:39,311 - str to boolFalse
+2024-09-13 19:52:39,312 - Settings applied to scene 'Scene'
+2024-09-13 19:52:40,187 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh013_ANIM.blend', 'FileName': 'Scene8_Sh013_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '72 (1318-1390)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh013_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:40,191 - str to boolFalse
+2024-09-13 19:52:40,191 - str to boolFalse
+2024-09-13 19:52:40,191 - Settings applied to scene 'Scene'
+2024-09-13 19:52:40,939 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh014_ANIM.blend', 'FileName': 'Scene8_Sh014_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '158 (1390-1548)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh014_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:40,943 - str to boolFalse
+2024-09-13 19:52:40,944 - str to boolFalse
+2024-09-13 19:52:40,944 - Settings applied to scene 'Scene'
+2024-09-13 19:52:41,800 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh07_ANIM.blend', 'FileName': 'Scene8_Sh07_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '67 (643-710)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh07_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:41,804 - str to boolFalse
+2024-09-13 19:52:41,804 - str to boolFalse
+2024-09-13 19:52:41,804 - Settings applied to scene 'Scene'
+2024-09-13 19:52:42,800 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh08_ANIM.blend', 'FileName': 'Scene8_Sh08_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '36 (710-746)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\Scene8_Sh08_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:42,802 - str to boolFalse
+2024-09-13 19:52:42,802 - str to boolFalse
+2024-09-13 19:52:42,802 - Settings applied to scene 'Scene'
+2024-09-13 19:52:43,523 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh012_ANIM.blend', 'FileName': 'Scene8_Sh012_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '115 (1203-1318)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh012_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky.001', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:43,525 - str to boolFalse
+2024-09-13 19:52:43,525 - str to boolFalse
+2024-09-13 19:52:43,525 - Settings applied to scene 'Scene'
+2024-09-13 19:52:44,259 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh015_ANIM.blend', 'FileName': 'Scene8_Sh015_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '96 (1548-1644)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh015_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:44,261 - str to boolFalse
+2024-09-13 19:52:44,261 - str to boolFalse
+2024-09-13 19:52:44,262 - Settings applied to scene 'Scene'
+2024-09-13 19:52:45,027 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh016_ANIM.blend', 'FileName': 'Scene8_Sh016_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '178 (1644-1822)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh016_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:45,028 - str to boolFalse
+2024-09-13 19:52:45,028 - str to boolFalse
+2024-09-13 19:52:45,028 - Settings applied to scene 'Scene'
+2024-09-13 19:52:45,789 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh018_ANIM.blend', 'FileName': 'Scene8_Sh018_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '99 (1940-2039)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh018_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:45,791 - str to boolFalse
+2024-09-13 19:52:45,791 - str to boolFalse
+2024-09-13 19:52:45,791 - Settings applied to scene 'Scene'
+2024-09-13 19:52:46,558 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC08\\Scene8_Sh017_ANIM.blend', 'FileName': 'Scene8_Sh017_ANIM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '118 (1822-1940)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'Z:\\PANRE AMBO DAN KAWALI\\05_Animation\\SC08\\Scene8_Sh017_ANIM.MOV', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 19:52:46,559 - str to boolFalse
+2024-09-13 19:52:46,560 - str to boolFalse
+2024-09-13 19:52:46,560 - Settings applied to scene 'Scene'
+2024-09-13 21:33:36,620 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH002_ANM.blend', 'FileName': 'SC05_SH002_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '179 (1-180)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH002_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:36,623 - str to boolTrue
+2024-09-13 21:33:36,623 - str to boolFalse
+2024-09-13 21:33:36,624 - All video sequences removed.
+2024-09-13 21:33:36,624 - Settings applied to scene 'Scene'
+2024-09-13 21:33:38,912 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH006_ANM.blend', 'FileName': 'SC05_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '50 (1-51)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:38,917 - str to boolTrue
+2024-09-13 21:33:38,917 - str to boolFalse
+2024-09-13 21:33:38,918 - All video sequences removed.
+2024-09-13 21:33:38,918 - Settings applied to scene 'Scene'
+2024-09-13 21:33:40,662 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH001_ANM.blend', 'FileName': 'SC05_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH001_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:40,664 - str to boolTrue
+2024-09-13 21:33:40,664 - str to boolFalse
+2024-09-13 21:33:40,664 - All video sequences removed.
+2024-09-13 21:33:40,665 - Settings applied to scene 'Scene'
+2024-09-13 21:33:43,210 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH008_ANM.blend', 'FileName': 'SC05_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:43,216 - str to boolTrue
+2024-09-13 21:33:43,217 - str to boolFalse
+2024-09-13 21:33:43,218 - All video sequences removed.
+2024-09-13 21:33:43,218 - Settings applied to scene 'Scene'
+2024-09-13 21:33:45,088 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH004_ANM.blend', 'FileName': 'SC05_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '164 (1-165)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:45,089 - str to boolTrue
+2024-09-13 21:33:45,089 - str to boolFalse
+2024-09-13 21:33:45,090 - All video sequences removed.
+2024-09-13 21:33:45,090 - Settings applied to scene 'Scene'
+2024-09-13 21:33:47,156 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH003_ANM.blend', 'FileName': 'SC05_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:47,162 - str to boolTrue
+2024-09-13 21:33:47,163 - str to boolFalse
+2024-09-13 21:33:47,163 - All video sequences removed.
+2024-09-13 21:33:47,163 - Settings applied to scene 'Scene'
+2024-09-13 21:33:49,501 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH007_ANM.blend', 'FileName': 'SC05_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '120 (1-121)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:49,502 - str to boolTrue
+2024-09-13 21:33:49,502 - str to boolFalse
+2024-09-13 21:33:49,503 - All video sequences removed.
+2024-09-13 21:33:49,503 - Settings applied to scene 'Scene'
+2024-09-13 21:33:52,069 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH009_ANM.blend', 'FileName': 'SC05_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '286 (1-287)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:52,074 - str to boolTrue
+2024-09-13 21:33:52,075 - str to boolFalse
+2024-09-13 21:33:52,075 - All video sequences removed.
+2024-09-13 21:33:52,075 - Settings applied to scene 'Scene'
+2024-09-13 21:33:53,907 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH010_ANM.blend', 'FileName': 'SC05_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '136 (1-137)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:53,909 - str to boolTrue
+2024-09-13 21:33:53,909 - str to boolFalse
+2024-09-13 21:33:53,910 - All video sequences removed.
+2024-09-13 21:33:53,910 - Settings applied to scene 'Scene'
+2024-09-13 21:33:56,053 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC05_SH005_ANM.blend', 'FileName': 'SC05_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '69 (1-70)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC05_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:33:56,058 - str to boolTrue
+2024-09-13 21:33:56,059 - str to boolFalse
+2024-09-13 21:33:56,059 - All video sequences removed.
+2024-09-13 21:33:56,059 - Settings applied to scene 'Scene'
+2024-09-13 21:35:11,092 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH008_ANM.blend', 'FileName': 'SC13_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '91 (1-92)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:11,093 - str to boolTrue
+2024-09-13 21:35:11,094 - str to boolFalse
+2024-09-13 21:35:11,094 - All video sequences removed.
+2024-09-13 21:35:11,094 - Settings applied to scene 'Scene'
+2024-09-13 21:35:13,255 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH007_ANM.blend', 'FileName': 'SC13_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '318 (1-319)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:13,260 - str to boolTrue
+2024-09-13 21:35:13,261 - str to boolFalse
+2024-09-13 21:35:13,261 - All video sequences removed.
+2024-09-13 21:35:13,261 - Settings applied to scene 'Scene'
+2024-09-13 21:35:15,544 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH012_ANM.blend', 'FileName': 'SC13_SH012_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:15,545 - str to boolTrue
+2024-09-13 21:35:15,546 - str to boolFalse
+2024-09-13 21:35:15,546 - All video sequences removed.
+2024-09-13 21:35:15,546 - Settings applied to scene 'Scene'
+2024-09-13 21:35:17,626 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH010_ANM.blend', 'FileName': 'SC13_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '162 (1-163)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:17,628 - str to boolTrue
+2024-09-13 21:35:17,628 - str to boolFalse
+2024-09-13 21:35:17,629 - All video sequences removed.
+2024-09-13 21:35:17,629 - Settings applied to scene 'Scene'
+2024-09-13 21:35:19,336 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH014_ANM.blend', 'FileName': 'SC13_SH014_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '210 (1-211)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:19,341 - str to boolTrue
+2024-09-13 21:35:19,341 - str to boolFalse
+2024-09-13 21:35:19,341 - All video sequences removed.
+2024-09-13 21:35:19,342 - Settings applied to scene 'Scene'
+2024-09-13 21:35:21,391 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH013_ANM.blend', 'FileName': 'SC13_SH013_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:21,392 - str to boolFalse
+2024-09-13 21:35:21,392 - str to boolFalse
+2024-09-13 21:35:21,393 - All video sequences removed.
+2024-09-13 21:35:21,393 - Settings applied to scene 'Scene'
+2024-09-13 21:35:23,618 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH009_ANM.blend', 'FileName': 'SC13_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:23,624 - str to boolTrue
+2024-09-13 21:35:23,625 - str to boolFalse
+2024-09-13 21:35:23,625 - All video sequences removed.
+2024-09-13 21:35:23,625 - Settings applied to scene 'Scene'
+2024-09-13 21:35:25,595 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH002_ANM.blend', 'FileName': 'SC13_SH002_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '222 (1-223)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH002_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:25,597 - str to boolTrue
+2024-09-13 21:35:25,597 - str to boolFalse
+2024-09-13 21:35:25,598 - All video sequences removed.
+2024-09-13 21:35:25,598 - Settings applied to scene 'Scene'
+2024-09-13 21:35:27,306 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH011_ANM.blend', 'FileName': 'SC13_SH011_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:27,311 - str to boolTrue
+2024-09-13 21:35:27,311 - str to boolFalse
+2024-09-13 21:35:27,312 - All video sequences removed.
+2024-09-13 21:35:27,312 - Settings applied to scene 'Scene'
+2024-09-13 21:35:29,068 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH005_ANM.blend', 'FileName': 'SC13_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '156 (1-157)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:29,069 - str to boolTrue
+2024-09-13 21:35:29,069 - str to boolFalse
+2024-09-13 21:35:29,070 - All video sequences removed.
+2024-09-13 21:35:29,070 - Settings applied to scene 'Scene'
+2024-09-13 21:35:31,196 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH001_ANM.blend', 'FileName': 'SC13_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '83 (1-84)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH001_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:31,198 - str to boolTrue
+2024-09-13 21:35:31,198 - str to boolFalse
+2024-09-13 21:35:31,198 - All video sequences removed.
+2024-09-13 21:35:31,198 - Settings applied to scene 'Scene'
+2024-09-13 21:35:33,421 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH003_ANM.blend', 'FileName': 'SC13_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:33,423 - str to boolTrue
+2024-09-13 21:35:33,424 - str to boolFalse
+2024-09-13 21:35:33,424 - All video sequences removed.
+2024-09-13 21:35:33,424 - Settings applied to scene 'Scene'
+2024-09-13 21:35:35,299 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH004_ANM.blend', 'FileName': 'SC13_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:35,301 - str to boolTrue
+2024-09-13 21:35:35,301 - str to boolFalse
+2024-09-13 21:35:35,302 - All video sequences removed.
+2024-09-13 21:35:35,302 - Settings applied to scene 'Scene'
+2024-09-13 21:35:37,236 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH006_ANM.blend', 'FileName': 'SC13_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '68 (1-69)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:37,238 - str to boolTrue
+2024-09-13 21:35:37,239 - str to boolFalse
+2024-09-13 21:35:37,239 - All video sequences removed.
+2024-09-13 21:35:37,239 - Settings applied to scene 'Scene'
+2024-09-13 21:35:56,670 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH008_ANM.blend', 'FileName': 'SC13_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '91 (1-92)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:56,672 - str to boolTrue
+2024-09-13 21:35:56,673 - str to boolFalse
+2024-09-13 21:35:56,673 - All video sequences removed.
+2024-09-13 21:35:56,673 - Settings applied to scene 'Scene'
+2024-09-13 21:35:58,719 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH007_ANM.blend', 'FileName': 'SC13_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '318 (1-319)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:35:58,725 - str to boolTrue
+2024-09-13 21:35:58,725 - str to boolFalse
+2024-09-13 21:35:58,725 - All video sequences removed.
+2024-09-13 21:35:58,726 - Settings applied to scene 'Scene'
+2024-09-13 21:36:00,979 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH012_ANM.blend', 'FileName': 'SC13_SH012_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:00,981 - str to boolTrue
+2024-09-13 21:36:00,981 - str to boolFalse
+2024-09-13 21:36:00,981 - All video sequences removed.
+2024-09-13 21:36:00,981 - Settings applied to scene 'Scene'
+2024-09-13 21:36:02,892 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH010_ANM.blend', 'FileName': 'SC13_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '162 (1-163)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:02,893 - str to boolTrue
+2024-09-13 21:36:02,893 - str to boolFalse
+2024-09-13 21:36:02,894 - All video sequences removed.
+2024-09-13 21:36:02,894 - Settings applied to scene 'Scene'
+2024-09-13 21:36:04,530 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH014_ANM.blend', 'FileName': 'SC13_SH014_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '210 (1-211)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:04,534 - str to boolTrue
+2024-09-13 21:36:04,535 - str to boolFalse
+2024-09-13 21:36:04,535 - All video sequences removed.
+2024-09-13 21:36:04,535 - Settings applied to scene 'Scene'
+2024-09-13 21:36:06,507 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH013_ANM.blend', 'FileName': 'SC13_SH013_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:06,508 - str to boolFalse
+2024-09-13 21:36:06,509 - str to boolFalse
+2024-09-13 21:36:06,509 - All video sequences removed.
+2024-09-13 21:36:06,509 - Settings applied to scene 'Scene'
+2024-09-13 21:36:08,601 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH009_ANM.blend', 'FileName': 'SC13_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:08,606 - str to boolTrue
+2024-09-13 21:36:08,607 - str to boolFalse
+2024-09-13 21:36:08,608 - All video sequences removed.
+2024-09-13 21:36:08,608 - Settings applied to scene 'Scene'
+2024-09-13 21:36:10,467 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH002_ANM.blend', 'FileName': 'SC13_SH002_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '222 (1-223)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH002_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:10,468 - str to boolTrue
+2024-09-13 21:36:10,468 - str to boolFalse
+2024-09-13 21:36:10,468 - All video sequences removed.
+2024-09-13 21:36:10,468 - Settings applied to scene 'Scene'
+2024-09-13 21:36:12,123 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH011_ANM.blend', 'FileName': 'SC13_SH011_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:12,134 - str to boolTrue
+2024-09-13 21:36:12,134 - str to boolFalse
+2024-09-13 21:36:12,134 - All video sequences removed.
+2024-09-13 21:36:12,134 - Settings applied to scene 'Scene'
+2024-09-13 21:36:13,765 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH005_ANM.blend', 'FileName': 'SC13_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '156 (1-157)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:13,767 - str to boolTrue
+2024-09-13 21:36:13,767 - str to boolFalse
+2024-09-13 21:36:13,767 - All video sequences removed.
+2024-09-13 21:36:13,767 - Settings applied to scene 'Scene'
+2024-09-13 21:36:15,898 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH001_ANM.blend', 'FileName': 'SC13_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '83 (1-84)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH001_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:15,900 - str to boolTrue
+2024-09-13 21:36:15,900 - str to boolFalse
+2024-09-13 21:36:15,901 - All video sequences removed.
+2024-09-13 21:36:15,901 - Settings applied to scene 'Scene'
+2024-09-13 21:36:18,227 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH003_ANM.blend', 'FileName': 'SC13_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:18,229 - str to boolTrue
+2024-09-13 21:36:18,230 - str to boolFalse
+2024-09-13 21:36:18,230 - All video sequences removed.
+2024-09-13 21:36:18,230 - Settings applied to scene 'Scene'
+2024-09-13 21:36:20,204 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH004_ANM.blend', 'FileName': 'SC13_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:20,205 - str to boolTrue
+2024-09-13 21:36:20,206 - str to boolFalse
+2024-09-13 21:36:20,206 - All video sequences removed.
+2024-09-13 21:36:20,206 - Settings applied to scene 'Scene'
+2024-09-13 21:36:22,190 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\05_Animation\\SC13_SH006_ANM.blend', 'FileName': 'SC13_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '68 (1-69)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': True, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': True, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:36:22,191 - str to boolTrue
+2024-09-13 21:36:22,192 - str to boolFalse
+2024-09-13 21:36:22,192 - All video sequences removed.
+2024-09-13 21:36:22,192 - Settings applied to scene 'Scene'
+2024-09-13 21:50:42,823 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH008_ANM.blend', 'FileName': 'SC13_SH008_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '91 (1-92)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH008_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:42,826 - str to boolFalse
+2024-09-13 21:50:42,826 - str to boolFalse
+2024-09-13 21:50:42,826 - Settings applied to scene 'Scene'
+2024-09-13 21:50:45,250 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH007_ANM.blend', 'FileName': 'SC13_SH007_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '318 (1-319)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH007_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:45,251 - str to boolFalse
+2024-09-13 21:50:45,252 - str to boolFalse
+2024-09-13 21:50:45,252 - Settings applied to scene 'Scene'
+2024-09-13 21:50:47,769 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH012_ANM.blend', 'FileName': 'SC13_SH012_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH012_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:47,771 - str to boolFalse
+2024-09-13 21:50:47,772 - str to boolFalse
+2024-09-13 21:50:47,772 - Settings applied to scene 'Scene'
+2024-09-13 21:50:49,913 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH010_ANM.blend', 'FileName': 'SC13_SH010_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '162 (1-163)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH010_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:49,915 - str to boolFalse
+2024-09-13 21:50:49,915 - str to boolFalse
+2024-09-13 21:50:49,915 - Settings applied to scene 'Scene'
+2024-09-13 21:50:51,841 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH014_ANM.blend', 'FileName': 'SC13_SH014_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '210 (1-211)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH014_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:51,845 - str to boolFalse
+2024-09-13 21:50:51,845 - str to boolFalse
+2024-09-13 21:50:51,845 - Settings applied to scene 'Scene'
+2024-09-13 21:50:53,973 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH013_ANM.blend', 'FileName': 'SC13_SH013_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH013_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:53,978 - str to boolFalse
+2024-09-13 21:50:53,979 - str to boolFalse
+2024-09-13 21:50:53,979 - Settings applied to scene 'Scene'
+2024-09-13 21:50:56,036 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH009_ANM.blend', 'FileName': 'SC13_SH009_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH009_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:56,038 - str to boolFalse
+2024-09-13 21:50:56,038 - str to boolFalse
+2024-09-13 21:50:56,038 - Settings applied to scene 'Scene'
+2024-09-13 21:50:58,328 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH002_ANM.blend', 'FileName': 'SC13_SH002_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '222 (1-223)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH002_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:50:58,330 - str to boolFalse
+2024-09-13 21:50:58,331 - str to boolFalse
+2024-09-13 21:50:58,331 - Settings applied to scene 'Scene'
+2024-09-13 21:51:00,199 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH011_ANM.blend', 'FileName': 'SC13_SH011_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH011_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:00,202 - str to boolFalse
+2024-09-13 21:51:00,203 - str to boolFalse
+2024-09-13 21:51:00,203 - Settings applied to scene 'Scene'
+2024-09-13 21:51:02,129 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH005_ANM.blend', 'FileName': 'SC13_SH005_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '156 (1-157)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH005_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:02,134 - str to boolFalse
+2024-09-13 21:51:02,134 - str to boolFalse
+2024-09-13 21:51:02,134 - Settings applied to scene 'Scene'
+2024-09-13 21:51:04,410 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH001_ANM.blend', 'FileName': 'SC13_SH001_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '83 (1-84)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH001_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:04,415 - str to boolFalse
+2024-09-13 21:51:04,415 - str to boolFalse
+2024-09-13 21:51:04,415 - Settings applied to scene 'Scene'
+2024-09-13 21:51:06,835 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH003_ANM.blend', 'FileName': 'SC13_SH003_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH003_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:06,837 - str to boolFalse
+2024-09-13 21:51:06,837 - str to boolFalse
+2024-09-13 21:51:06,838 - Settings applied to scene 'Scene'
+2024-09-13 21:51:08,973 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH004_ANM.blend', 'FileName': 'SC13_SH004_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '71 (1-72)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH004_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:08,975 - str to boolFalse
+2024-09-13 21:51:08,976 - str to boolFalse
+2024-09-13 21:51:08,976 - Settings applied to scene 'Scene'
+2024-09-13 21:51:11,169 - APPLY {'FilePath': 'E:\\My Drive\\Project\\PANRE AMBO DAN KAWALI\\06_Lighting\\SC13\\SC13_SH006_ANM.blend', 'FileName': 'SC13_SH006_ANM.blend', 'Render_Engine': 'CYCLES', 'blender_ver': '(3, 6, 13)', 'Total_Frames': '68 (1-69)', 'Render_Samples': '256', 'Resolution_X': '1920', 'Resolution_Y': '1080', 'File_Path': 'D:\\PANRE AMBO DAN KAWALI\\05_Animation\\PB\\SC13_SH006_ANM.mov', 'World_Name': 'Procedural Sky.new sky', 'File_Format': 'PNG', 'Resolution_Percentage': '100', 'Scene': 'Scene', 'have_seq': False, 'w_comp': False, 'noise_t': '0.75', 'Ambient_Occlusion': '-', 'Subsurface_Reflection': '-', 'Simplify': False, 'Bloom': '-', 'Motion_Blur': '-'}
+2024-09-13 21:51:11,171 - str to boolFalse
+2024-09-13 21:51:11,171 - str to boolFalse
+2024-09-13 21:51:11,171 - Settings applied to scene 'Scene'

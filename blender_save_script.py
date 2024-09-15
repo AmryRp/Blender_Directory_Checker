@@ -25,19 +25,24 @@ def remove_video_sequences(scene, settings):
             log_message("No sequence editor found.")
 
 def str_to_bool(s):
-    return s.lower() in ['true', '1', 'yes']
+    log_message(f"str to bool{s}")
+    try:
+        return s.lower() in ['true', '1', 'yes']
+    except:
+        return s
 
 def apply_render_settings(scene, D, settings):
     log_message(f"APPLY {settings}")
     scene.render.engine = settings.get("Render_Engine", scene.render.engine)
-    scene.render.fps = int(settings.get("FPS", scene.render.fps))
-    scene.frame_start = 1
-    scene.frame_end = int(settings.get("Total_Frames", scene.frame_end + scene.frame_start))+1
+    # scene.render.fps = int(settings.get("FPS", scene.render.fps))
+    # scene.frame_start = 1
+    # scene.frame_end = int(settings.get("Total_Frames", scene.frame_end + scene.frame_start))+1
     scene.render.resolution_x = int(settings.get("Resolution_X", scene.render.resolution_x))
     scene.render.resolution_y = int(settings.get("Resolution_Y", scene.render.resolution_y))
     scene.render.filepath = settings.get("File_Path", scene.render.filepath)
     scene.render.resolution_percentage = int(settings.get("Resolution_Percentage", scene.render.resolution_percentage))
     scene.render.use_simplify = str_to_bool(settings.get("Simplify", scene.render.use_simplify))
+    D.scenes[bpy.context.scene.name].render.image_settings.file_format = settings.get("File_Format")
 
     if scene.world:
         scene.world.name = settings.get("World_Name", scene.world.name)
@@ -59,11 +64,13 @@ def apply_render_settings(scene, D, settings):
     log_message(f"Settings applied to scene '{scene.name}'")
 
 def save_blend_file(output_path, settings):
-    bpy.ops.wm.open_mainfile(filepath=output_path)
+    main_file_path = eval(settings).get("FilePath")
+    bpy.ops.wm.open_mainfile(filepath=main_file_path)
     apply_render_settings(bpy.context.scene, bpy.data, eval(settings))
     bpy.ops.wm.save_as_mainfile(filepath=output_path)
 
 if __name__ == "__main__":
-    settings = sys.argv[1]  # Get the output file path from command line arguments
-    output_path = eval(settings).get("FilePath")
+    settings = sys.argv[2]  # Get the output file path from command line arguments
+    file_path = sys.argv[1]
+    output_path = file_path
     save_blend_file(output_path, settings)
