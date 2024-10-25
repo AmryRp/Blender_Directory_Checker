@@ -13,10 +13,10 @@ def render_thumbnail(blend_file, output_dir):
     scene = bpy.context.scene
     scene.render.resolution_x = 1280
     scene.render.resolution_y = 720
-    scene.render.resolution_percentage = 75
+    scene.render.resolution_percentage = 50
     scene.render.image_settings.file_format = 'PNG'
     scene.render.filepath = thumbnail_path
-    bpy.data.scenes[scene.name].cycles.samples = 128
+    bpy.data.scenes[scene.name].cycles.samples = 8
     bpy.data.scenes[scene.name].render.use_stamp = True
 
     # Render the thumbnail

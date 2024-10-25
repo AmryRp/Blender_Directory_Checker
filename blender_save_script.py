@@ -60,14 +60,23 @@ def apply_render_settings(scene, D, settings):
     scene.use_nodes = str_to_bool(settings.get("w_comp", scene.use_nodes))
 
     remove_video_sequences(scene, settings)
-
+    D.scenes[bpy.context.scene.name].render.use_persistent_data = True
+    if bpy.app.version[0] == 4:
+        "Comp 4.2 setting applied"
+        D.scenes[bpy.context.scene.name].display_settings.display_device = "sRGB"
+        D.scenes[bpy.context.scene.name].view_settings.view_transform = 'Khronos PBR Neutral'
+        D.scenes[bpy.context.scene.name].view_settings.look = 'Medium Low Contrast'
+        D.scenes[bpy.context.scene.name].sequencer_colorspace_settings.name = "sRGB"
     log_message(f"Settings applied to scene '{scene.name}'")
 
 def save_blend_file(output_path, settings):
     main_file_path = eval(settings).get("FilePath")
     bpy.ops.wm.open_mainfile(filepath=main_file_path)
     apply_render_settings(bpy.context.scene, bpy.data, eval(settings))
-    bpy.ops.wm.save_as_mainfile(filepath=output_path)
+    if bpy.app.version[0] == 4:
+        bpy.ops.wm.save_as_mainfile(filepath=output_path.replace(".blend", "_4_2.blend"))
+    else:
+        bpy.ops.wm.save_as_mainfile(filepath=output_path)
 
 if __name__ == "__main__":
     settings = sys.argv[2]  # Get the output file path from command line arguments

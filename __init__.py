@@ -8,6 +8,7 @@ from PySide6.QtWidgets import (
 from PySide6.QtGui import QPixmap
 from PySide6.QtCore import Qt
 import json
+# 
 
 class BlenderDirectoryExplorer(QWidget):
     def __init__(self):
@@ -17,7 +18,6 @@ class BlenderDirectoryExplorer(QWidget):
     def init_ui(self):
         self.setWindowTitle("Blender Directory Explorer")
         self.setGeometry(300, 300, 800, 600)
-
         layout = QVBoxLayout()
 
         self.open_button = QPushButton("Open Directory", self)
@@ -129,19 +129,20 @@ class BlenderDirectoryExplorer(QWidget):
 
         for row, blend_file in enumerate(blend_files):
             file_path = os.path.join(dir_path, blend_file)
+            print(f"open _ {file_path}")
             result = subprocess.run(
                 ["python", "blender_loader.py", file_path],
                 capture_output=True,
                 text=True
             )
-
-            if result.returncode == 0:
-                file_info = result.stdout.split('_Result')
+            print(result)
+            try:
+                file_info = result.stdout.split('|_Result')
                 preview_path = os.path.join(dir_path, f"{os.path.splitext(blend_file)[0]}.blend_thumbnail.png")
                 # Generate thumbnail image
-                
                 try:
                     json_file_info = eval(file_info[1])
+                    print(eval(file_info[1]))
                 except json.JSONDecodeError as e:
                     print(f"Error parsing JSON: {str(e)}")
                     continue
@@ -156,7 +157,6 @@ class BlenderDirectoryExplorer(QWidget):
                 # Fill in the data from the JSON info
                 for idx, data in enumerate(json_file_info.keys()):
                     value = json_file_info.get(data)
-
                     # Create a dropdown if the value is boolean (True/False)
                     if (value == "FFMPEG"):
                         combo_box = QComboBox()
@@ -177,23 +177,23 @@ class BlenderDirectoryExplorer(QWidget):
                     else:
                         self.table.setItem(row, idx+1, QTableWidgetItem(str(value)))
                 modified_blend_file_path = str(json_file_info.get('FilePath'))
-
                 # Add the "Save File" button
                 save_file_button = QPushButton("Save File", self)
-                settings = self.save_settings[file_name]
                 save_file_button.clicked.connect(lambda _, path=modified_blend_file_path, file_name=file_name: self.save_blend_file(path, file_name))
                 self.table.setCellWidget(row, len(json_file_info.keys()) + 1, save_file_button)
-                
+                print("render a thumbnail")
                 pix = self.generate_thumbnail(file_path, preview_path)
                 preview_label = QLabel()
                 preview_label.setPixmap(pix.scaled(64, 64, Qt.KeepAspectRatio))
                 self.table.setCellWidget(row, len(json_file_info.keys()) + 2, preview_label)
-                
+            except:
+                print(result.stderr)
             # print(eval(file_info[1]))
-            if result.returncode != 0:
-                save_file_button = QPushButton("Save File", self)
-                save_file_button.setDisabled(True)
-                self.table.setCellWidget(row, len(json_file_info.keys()) + 1, save_file_button)
+            print(result.returncode)
+            # if not hasattr(result,"|_Result"):
+            #     save_file_button = QPushButton("Save File", self)
+            #     save_file_button.setDisabled(True)
+            #     self.table.setCellWidget(row, len(json_file_info.keys()) + 1, save_file_button)
             # print(self.save_settings)
     
     def on_combo_box_format_changed(self, file_name, key, index):
@@ -214,7 +214,7 @@ class BlenderDirectoryExplorer(QWidget):
         value = item.text()
 
         # Debugging information
-        print(f"Item changed: Row {row}, Column {col}, New Value: {value}")
+        # print(f"Item changed: Row {row}, Column {col}, New Value: {value}")
 
         # Ensure the row is valid and the table has items
         if row < 0 or col < 0 or row >= self.table.rowCount() or col >= self.table.columnCount():
@@ -281,6 +281,7 @@ class BlenderDirectoryExplorer(QWidget):
             raise FileNotFoundError(f"Thumbnail not found at {preview_path}")
 
 if __name__ == "__main__":
+    # print(f"Running in {bpy.app.version[0]}")
     app = QApplication(sys.argv)
     explorer = BlenderDirectoryExplorer()
     explorer.show()

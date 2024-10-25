@@ -2,6 +2,18 @@ import sys
 import bpy
 import os
 
+import logging
+
+# Set up logging
+script_dir = os.path.dirname(os.path.abspath(__file__))
+log_file_path = os.path.join(script_dir, "blender_logfile.log")
+if not os.path.exists(script_dir):
+    os.makedirs(script_dir)
+logging.basicConfig(filename=log_file_path, level=logging.DEBUG, format='%(asctime)s - %(message)s')
+
+def log_message(message):
+    logging.debug(message)
+
 def render_Settings(C,D, scene):
     render_settings = scene.render
     file_path = D.filepath
@@ -68,18 +80,22 @@ def load_blend_file(file_path):
     
     # Format the important information
     settings_info = (
-        f"_Result"
+        f"|_Result"
         f"{render_Settings(bpy.context, bpy.data, bpy.context.scene)}"
-        f"_Result"
+        f"|_Result"
     )
+    
+    log_message(f"{settings_info}, SUCCESS")
     return settings_info
 
 
 if __name__ == "__main__":
     file_path = sys.argv[1]
     try:
+        log_message(f"OPEN {file_path}")
         info = load_blend_file(file_path)
         print(info, "SUCCESS")
     except Exception as e:
         print(f"Failed to load Blender file:\n{str(e)}", file=sys.stderr)
+        log_message(f"Failed to load Blender file:\n{str(e)}")
         sys.exit(1)
