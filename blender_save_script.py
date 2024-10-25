@@ -64,7 +64,7 @@ def apply_render_settings(scene, D, settings):
     if bpy.app.version[0] == 4:
         "Comp 4.2 setting applied"
         D.scenes[bpy.context.scene.name].display_settings.display_device = "sRGB"
-        D.scenes[bpy.context.scene.name].view_settings.view_transform = 'Khronos PBR Neutral'
+        D.scenes[bpy.context.scene.name].view_settings.view_transform = 'AgX'
         D.scenes[bpy.context.scene.name].view_settings.look = 'Medium Low Contrast'
         D.scenes[bpy.context.scene.name].sequencer_colorspace_settings.name = "sRGB"
     log_message(f"Settings applied to scene '{scene.name}'")
